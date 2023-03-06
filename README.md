@@ -1,0 +1,1 @@
+python final_code.py -n 33280 -s 68 -b 512 -i all.json -p 1 -o fe -k nested_cluster -f 35-50-1
